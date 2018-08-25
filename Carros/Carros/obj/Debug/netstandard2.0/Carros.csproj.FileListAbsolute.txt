@@ -1,0 +1,12 @@
+C:\Users\Aluno\Documents\Carros\Carros\Carros\bin\Debug\netstandard2.0\Carros.deps.json
+C:\Users\Aluno\Documents\Carros\Carros\Carros\bin\Debug\netstandard2.0\Carros.dll
+C:\Users\Aluno\Documents\Carros\Carros\Carros\bin\Debug\netstandard2.0\Carros.pdb
+C:\Users\Aluno\Documents\Carros\Carros\Carros\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aluno\Documents\Carros\Carros\Carros\obj\Debug\netstandard2.0\Views\CarroPage.xaml.g.cs
+C:\Users\Aluno\Documents\Carros\Carros\Carros\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Aluno\Documents\Carros\Carros\Carros\obj\Debug\netstandard2.0\Carros.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Carros\Carros\Carros\obj\Debug\netstandard2.0\Carros.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Carros\Carros\Carros\obj\Debug\netstandard2.0\Carros.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Carros\Carros\Carros\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aluno\Documents\Carros\Carros\Carros\obj\Debug\netstandard2.0\Carros.dll
+C:\Users\Aluno\Documents\Carros\Carros\Carros\obj\Debug\netstandard2.0\Carros.pdb
